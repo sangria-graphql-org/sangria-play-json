@@ -12,7 +12,7 @@ crossScalaVersions := Seq("2.11.11", "2.12.7")
 scalacOptions ++= Seq("-deprecation", "-feature")
 
 libraryDependencies ++= Seq(
-  "org.sangria-graphql" %% "sangria-marshalling-api" % "1.0.3",
+  "org.sangria-graphql" %% "sangria-marshalling-api" % "1.0.4",
   "com.typesafe.play" %% "play-json" % "2.6.10",
 
   "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.1" % "test",
