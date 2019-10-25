@@ -15,7 +15,7 @@ libraryDependencies ++= Seq(
   "org.sangria-graphql" %% "sangria-marshalling-api" % "1.0.3",
   "com.typesafe.play" %% "play-json" % "2.6.10",
 
-  "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.1" % "test",
+  "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.2" % "test",
   "org.scalatest" %% "scalatest" % "3.0.5" % "test")
 
 // Publishing
